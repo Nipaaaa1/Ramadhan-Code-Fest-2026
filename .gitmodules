@@ -79,3 +79,6 @@
 [submodule "Rin"]
 	path = Rin
 	url = https://github.com/pavelc4/Rin.git
+[submodule "pixtify"]
+	path = pixtify
+	url = https://github.com/pavelc4/pixtify.git
